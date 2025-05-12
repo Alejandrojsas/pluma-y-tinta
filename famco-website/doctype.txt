@@ -1,0 +1,32 @@
+Install in the latest patchday, And enjoy!
+
+Install the ELS in : --> Grand Theft Auto V --> ELS --> pack_default.
+
+
+
+
+[Addon]
+Install in GTA V > mods > update > x64 > dlcpack,
+drag and drop the folder "chargerfakecop" in dlcpack
+GTA V > mods > update > update.rpf > common > data
+right click on dlc.xml to edit it
+add the line <Item>dlcpacks:/chpfpiu2020/</Item>
+
+Install the ELS in : --> Grand Theft Auto V --> ELS --> pack_default.
+
+
+
+
+Credits: 
+
+Base model : By HP Deskjet.
+Lightbar : By zombitt.
+Raider : By GTAxB0SS.
+Linz6 : By GTAxB0SS.
+Skin : By me.
+Toughbook CF-31 modeled and textured : By Cj24.
+LEM Laptop Stand : By bevarnow.
+Motorola APX 6500 : By Dan with da van.
+AED & Medical jump Bag & Body Bag : By Candice, texture by JustADutchie.
+Whelen 295SL101 Hands Free 200 Watt Siren Controller : By OfficerFive0.
+Havis Console modeled and textured : By Cj24.
